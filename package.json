@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "static-container": "^1.5.1"
+    "static-container": "git+https://github.com/aikewoody/static-container.git#master"
   },
   "devDependencies": {
     "@types/react": "^16.9.16",
